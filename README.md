@@ -31,12 +31,25 @@ It helps users stay safe by providing emergency features like SOS alerts, authen
 
 ## 📸 Screenshots
 
-![Login](screenshots/login.png)
-![Home](screenshots/home.png)
-![SOS](screenshots/sos.png)
-![Safety Tools](screenshots/safety_tools.png)
-![Report](screenshots/report.png)
-![Profile](screenshots/profile.png)
+## 📸 Screenshots
+
+### 🔐 Login Screen
+<img src="screenshots/login.png" width="250"/>
+
+### 🏠 Home Screen
+<img src="screenshots/home.png" width="250"/>
+
+### 🚨 SOS Feature
+<img src="screenshots/sos.png" width="250"/>
+
+### 🛠 Safety Tools
+<img src="screenshots/safety_tools.png" width="250"/>
+
+### 📊 Report Screen
+<img src="screenshots/report.png" width="250"/>
+
+### 👤 Profile Screen
+<img src="screenshots/profile.png" width="250"/>
 
 ---
 
