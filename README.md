@@ -1,16 +1,42 @@
-# shieldcity
+# 🚨 Shield City App
 
-A new Flutter project.
+## 📌 Overview
+Shield City is a mobile safety application for women built using Flutter.  
+It helps users stay safe by providing emergency features like SOS alerts, authentication, and safety tools.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚧 Project Status
+⚠️ Backend integration is currently in progress.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
+- 🔐 User Authentication (Login & OTP)
+- 🏠 Home Dashboard(safety scores with map)
+- 🚨 SOS Emergency Feature
+- 📊 Safety Tools & Reports
+- 👤 User Profile Management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Firebase (planned)
+
+---
+
+## 📸 Screenshots
+
+![Home](screenshots/home.png)
+![Login](screenshots/login.png)
+![SOS](screenshots/sos.png)
+
+---
+
+## 🚀 How to Run
+
+```bash
+flutter pub get
+flutter run
