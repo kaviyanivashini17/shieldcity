@@ -1,8 +1,7 @@
 # 🚨 Shield City App
 
 ## 📌 Overview
-Shield City is a mobile safety application for women built using Flutter.  
-It helps users stay safe by providing emergency features like SOS alerts, authentication, and safety tools.
+Shield City is a mobile safety application for women built using Flutter.Based on live safety score it helps to user to stay safe by providing emergency features like SOS alerts, authentication, and safety tools also it gives meaningful insights.
 
 ---
 
